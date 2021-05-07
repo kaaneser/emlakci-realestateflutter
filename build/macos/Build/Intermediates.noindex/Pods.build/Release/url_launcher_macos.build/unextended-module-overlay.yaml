@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/macos/Build/Products/Release/url_launcher_macos/url_launcher_macos.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/macos/Build/Intermediates.noindex/Pods.build/Release/url_launcher_macos.build/unextended-module.modulemap",
+    }]
+  }]
+}

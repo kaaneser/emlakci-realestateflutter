@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/url_launcher/intermediates/res/merged/debug/values-in/values-in.xml",
+            "map": [
+                {
+                    "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
+            "map": [
+                {
+                    "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

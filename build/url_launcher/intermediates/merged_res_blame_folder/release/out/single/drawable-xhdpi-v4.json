@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/url_launcher/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/url_launcher/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/url_launcher/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/url_launcher/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/url_launcher/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

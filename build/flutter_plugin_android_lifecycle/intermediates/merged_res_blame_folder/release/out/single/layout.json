@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kaan/Desktop/FlutterProjects/vtysproje/build/flutter_plugin_android_lifecycle/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/kaan/.gradle/caches/transforms-3/f65f4cd570a7a7508bf22db08dc5af39/transformed/core-1.1.0/res/layout/notification_action.xml"
+    }
+]
