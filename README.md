@@ -1,22 +1,17 @@
 # Emlakçı - A Real Estate Automation App
 
-This app made for 
+This app made for school project.
 
 <div class="row">
   <img src="emlakcipresentation.png"/>
 </div>
 
-## What is the purpose of HelpTouch?
-
-HelpTouch acts as a social network where people can help, primarily designed to solve inequalities in education.
-
 ## What can you do in HelpTouch?
 
 **You can:**
- - Add posts to solve your problems. (For Example: If you're a
-   teacher and your school needs a book for education, you can add a new
-   post)
- - See the other people's problems and make a communication. (You can like and comment to posts to communicate each other)
+ - Add your estates to sell, rent or daily rents.
+ - If you want to buy a new estate, you can find estates
+ - Filtering estates for your decisions, It's very functional to use it.
 
 ---
 
@@ -24,7 +19,7 @@ HelpTouch acts as a social network where people can help, primarily designed to 
 
 Contributor  | Role | GitHub Profile |
 :-------------: | :-------------: | :-------------: |
-Samet Eyisan  | Developer | [sameteyisan](www.github.com/sameteyisan) |
-Kaan Yıldırım Eser  |  Developer | [kaaneser](www.github.com/kaaneser) |
-| İpek Sevindik | Developer | [ipeksevindik](www.github.com/ipeksevindik) |
-| Merve Özbakar | Designer | [merveozbakar](www.github.com/merveozbakar) |
+Kaan Yıldırım Eser  | Developer | [kaaneser](www.github.com/kaaneser) |
+Hasan Koç  |  Developer | [Extr4ordinary](www.github.com/Extr4ordinary) |
+| Merve Doğan | Developer | [Mmervedgnn](www.github.com/Mmervedgnn) |
+| Duygu Şarkucu | Developer | [duygusarkucu](www.github.com/duygusarkucu) |
