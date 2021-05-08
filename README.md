@@ -3,7 +3,7 @@
 This app made for 
 
 <div class="row">
-  <img src="emlakcipresentation.png" width="200"/>
+  <img src="emlakcipresentation.png"/>
 </div>
 
 ## What is the purpose of HelpTouch?
