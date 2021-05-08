@@ -19,7 +19,7 @@ This app made for school project.
 
 Contributor  | Role | GitHub Profile |
 :-------------: | :-------------: | :-------------: |
-Kaan Yıldırım Eser  | Developer | [kaaneser](www.github.com/kaaneser) |
-Hasan Koç  |  Developer | [Extr4ordinary](www.github.com/Extr4ordinary) |
-| Merve Doğan | Developer | [Mmervedgnn](www.github.com/Mmervedgnn) |
-| Duygu Şarkucu | Developer | [duygusarkucu](www.github.com/duygusarkucu) |
+Kaan Yıldırım Eser  | Developer | [kaaneser](https://www.github.com/kaaneser) |
+Hasan Koç  |  Developer | [Extr4ordinary](https://www.github.com/Extr4ordinary) |
+| Merve Doğan | Developer | [Mmervedgnn](https://www.github.com/Mmervedgnn) |
+| Duygu Şarkucu | Developer | [duygusarkucu](https://www.github.com/duygusarkucu) |
