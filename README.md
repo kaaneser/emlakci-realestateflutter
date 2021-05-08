@@ -6,7 +6,7 @@ This app made for school project.
   <img src="emlakcipresentation.png"/>
 </div>
 
-## What can you do in HelpTouch?
+## What can you do in Emlakçı?
 
 **You can:**
  - Add your estates to sell, rent or daily rents.
