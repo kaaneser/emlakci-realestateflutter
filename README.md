@@ -2,10 +2,8 @@
 
 This app made for 
 
-%20
-
 <div class="row">
-  <img src="blob/master/emlakcipresentation.png" width="200"/>
+  <img src="emlakcipresentation.png" width="200"/>
 </div>
 
 ## What is the purpose of HelpTouch?
