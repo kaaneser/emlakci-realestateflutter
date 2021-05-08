@@ -1,16 +1,32 @@
-# vtysproje
+# Emlakçı - A Real Estate Automation App
 
-A new Flutter project.
+This app made for 
 
-## Getting Started
+%20
 
-This project is a starting point for a Flutter application.
+<div class="row">
+  <img src="blob/master/emlakcipresentation.png" width="200"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## What is the purpose of HelpTouch?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+HelpTouch acts as a social network where people can help, primarily designed to solve inequalities in education.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What can you do in HelpTouch?
+
+**You can:**
+ - Add posts to solve your problems. (For Example: If you're a
+   teacher and your school needs a book for education, you can add a new
+   post)
+ - See the other people's problems and make a communication. (You can like and comment to posts to communicate each other)
+
+---
+
+### Contributors:
+
+Contributor  | Role | GitHub Profile |
+:-------------: | :-------------: | :-------------: |
+Samet Eyisan  | Developer | [sameteyisan](www.github.com/sameteyisan) |
+Kaan Yıldırım Eser  |  Developer | [kaaneser](www.github.com/kaaneser) |
+| İpek Sevindik | Developer | [ipeksevindik](www.github.com/ipeksevindik) |
+| Merve Özbakar | Designer | [merveozbakar](www.github.com/merveozbakar) |
