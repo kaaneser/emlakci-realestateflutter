@@ -1,6 +1,6 @@
 # Emlakçı - A Real Estate Automation App
 
-This app made for school project.
+This app made for a school project.
 
 <div class="row">
   <img src="emlakcipresentation.png"/>
