@@ -27,7 +27,7 @@ This app made for a school project.
  - animations for animated containers
  - cloudinary_public for uploading images to Cloudinary
  - http for http requests
- - image_picker for pick images from gallery
+ - image_picker for pick images from gallery.
 
 ---
 
